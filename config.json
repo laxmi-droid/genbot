@@ -1,0 +1,31 @@
+{
+  "token": "",  
+  "username": "naughty",
+  "password": "pass", 
+
+  "port": "3000",
+  
+  "clientId": "1354082345845653617",
+  "guildId": "1285952362724331520",
+
+  "status": "Made By Sameer 🔥",
+  "website": "https://discord.gg/sfB8r34by2",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By Sameer 🔥",
+
+  "genChannel": "1354084106413019136",
+  "premiumChannel": "1354084074700148810",
+  "genCooldown": "5",
+  "premiumCooldown": "3",
+
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
